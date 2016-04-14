@@ -1,4 +1,4 @@
-This is sample app to demonstrate bug #xxx of hackney.
+This is sample app to demonstrate bug [#312](https://github.com/benoitc/hackney/issues/312) of hackney.
 
 It starts a inets HTTP server (`hackney_pool_debug_http_server`) which serves functions from module `hackney_pool_debug_http_func`.
 
