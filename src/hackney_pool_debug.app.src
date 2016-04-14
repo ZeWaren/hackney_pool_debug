@@ -1,0 +1,14 @@
+{application, hackney_pool_debug,
+ [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib,
+                  inets,
+                  hackney
+                 ]},
+  {mod, { hackney_pool_debug_app, []}},
+  {env, []}
+ ]}.
